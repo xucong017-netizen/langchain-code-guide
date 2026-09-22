@@ -1,0 +1,4 @@
+interface:
+  display_name: "LangChain / LangGraph 代码向导"
+  short_description: "用自然语言解释并安全修改 LangChain/LangGraph 代码"
+  default_prompt: "使用 $langchain-code-guide 帮我读懂这段智能体代码，并告诉我怎样用自然语言安全修改它。"
